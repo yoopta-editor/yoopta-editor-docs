@@ -1,0 +1,15 @@
+{
+  "name": "yoopta-editor-docs",
+  "twitter": "https://twitter.com/mintlify",
+  "website": "https://mintlify.com",
+  "favicon": "/public/favicon.png",
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["GetStarted"]
+    }
+  ],
+  "colors": {
+    "primary": "#1e70eb"
+  }
+}
